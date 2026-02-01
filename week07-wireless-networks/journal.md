@@ -55,7 +55,7 @@ The configuration settings of a wireless access point were explored using a rout
 
 ### Wireless Access Point Settings Image
 
-![Wi-Fi Access Point Settings](wifi-ap-settings.png)
+![Wi-Fi Access Point Settings](week07-wireless-networks/wifi-ap-settings.png)
 
 ---
 
@@ -69,7 +69,7 @@ The AI suggested practices such as clear communication, defined roles, regular m
 
 ### Generative AI Prompt and Output
 
-![AI Teamwork Prompt and Output](ai-teamwork-screenshot.png)
+![AI Teamwork Prompt and Output](week07-wireless-networks/ai-teamwork-screenshot.png)
 
 ### Comparison With Team Practices
 
@@ -89,7 +89,7 @@ Implementing these improvements will enhance teamwork for the remainder of the p
 
 GitHub repository contribution statistics were reviewed to evaluate team participation.
 
-![GitHub Contributors](github-contributors.png)
+![GitHub Contributors](week07-wireless-networks/github-contributors.png)
 
 My contribution was consistent with team expectations, though more frequent commits would further improve collaboration. Balanced contributions across team members lead to better project outcomes.
 
